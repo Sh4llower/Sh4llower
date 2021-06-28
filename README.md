@@ -1,4 +1,9 @@
 ### Hello there 👋
+#### I am currently studying at Epitech Paris (1st year) ^^'
+
+[![Sh4llower's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh4llower&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4llower&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sh4llower&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Sh4llower/Sh4llower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i'm alive
 -->
